@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvisGroup.Atiq.PaymentService", "IvisGroup.Atiq.PaymentService\IvisGroup.Atiq.PaymentService.csproj", "{5CE37419-97D4-4CC5-8103-44C0A2652AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvisGroup.Atiq.ReaderWriter", "IvisGroup.Atiq.ReaderWriter\IvisGroup.Atiq.ReaderWriter.csproj", "{13819278-0228-4C70-8C93-BD57E0D57D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE37419-97D4-4CC5-8103-44C0A2652AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE37419-97D4-4CC5-8103-44C0A2652AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE37419-97D4-4CC5-8103-44C0A2652AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE37419-97D4-4CC5-8103-44C0A2652AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13819278-0228-4C70-8C93-BD57E0D57D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13819278-0228-4C70-8C93-BD57E0D57D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13819278-0228-4C70-8C93-BD57E0D57D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13819278-0228-4C70-8C93-BD57E0D57D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
